@@ -12,5 +12,4 @@ Discounts offered on frequently bought together items.
 
 
 Issues-
-File addresses are complete, change according to system, or root.
 Apriori is Inefficient for large amounts of data.
